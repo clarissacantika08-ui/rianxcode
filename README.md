@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00eaff&height=200&section=header&text=AZRIEL&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Creative+Developer;Silent+Mind+%7C+Creative+Code;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;Creative+Developer;Always+Learning;Building+Digital+Things"/>
 
 <br>
 
@@ -13,22 +13,21 @@
 
 ---
 
-## ABOUT ME
+<h2 align="center">ABOUT ME</h2>
 
-```yaml
-Name: Azriel
-Role: Developer
-Focus: Web Development
-Status: Learning
-Mindset: Create and Explore
-```
+<div align="center">
 
-Not everything needs to be explained.
-I prefer creating, learning, and observing.
+**AZRIEL | DEVELOPER**
+
+Quiet mind. Endless ideas.
+
+Learning, creating and exploring digital technology.
+
+</div>
 
 ---
 
-## TECH STACK
+<h2 align="center">TECH STACK</h2>
 
 <div align="center">
 
@@ -38,59 +37,78 @@ I prefer creating, learning, and observing.
 
 ---
 
-## GITHUB STATS
+<h2 align="center">GITHUB STATISTICS</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=clarissacantika08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarissacantika08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=clarissacantika08&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## CONTRIBUTION GRAPH
+<h2 align="center">CONTRIBUTION GRAPH</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clarissacantika08&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## PROJECTS
+<h2 align="center">LANGUAGE STATISTICS</h2>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarissacantika08&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+<h2 align="center">GITHUB TROPHIES</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=clarissacantika08&theme=tokyonight&no-frame=true&row=2&column=4" width="100%"/>
+
+</div>
+
+---
+
+<h2 align="center">PROJECTS</h2>
 
 - Personal Portfolio
 - Dark Web Design
 - Neon UI
-- Code Experiments
-- Digital Projects
+- Anime Gallery
+- Digital Experiments
 
 ---
 
-## QUOTE
+<h2 align="center">MY PHILOSOPHY</h2>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+"Less noise, more creation."
+
+Learning never stops.
 
 <br><br>
-
-**LESS NOISE, MORE CREATION.**
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,50:001f3f,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
 
 © 2026 AZRIEL
 
 </div>
+
 
